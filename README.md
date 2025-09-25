@@ -14,7 +14,8 @@ It’s a fun way to see how math concepts can actually shrink image size while k
 
 ## 📸 Example Results
 
-![Result](assets/result.png)
+![Result](/result.png)
 
 ---
+
 Thank you so much for checking my project out!
